@@ -1,0 +1,97 @@
+
+        #header {
+            margin-bottom: 10px;
+            box-shadow: -3px 2px 7px #CCC;
+        } 
+
+        #header .download {
+            font-size: 12px;
+            font-weight: lighter;
+            margin-top: 15px;
+            margin-right: 15px;
+        }
+
+        #header .download strong {
+            display: block;
+        }
+
+        #gallery {
+            padding-bottom: 16px;
+        }
+
+        #gallery img {
+            border-radius: 10px;
+        }
+
+        h1, h2 {
+            font-family: 'Raleway', cursive;
+            font-weight: normal;
+        }
+
+        h1.logo-title {
+            font-family: 'Raleway', cursive;
+            margin-left: 15px;
+            margin-top: 15px;
+            margin-bottom: 25px;
+            display: inline-block;
+            font-size: 28px;
+        }
+
+        .tagline {
+            font-family: 'Raleway', cursive;
+            display: inline-block;
+            margin-left: 15px;
+            margin-bottom: 25px;
+        }
+
+
+        .hint {
+            padding-right: 8px;
+            font-size: 12px;
+        }
+
+        .container-fluid {
+            width: 60%;
+            margin: auto;
+        }
+
+        /* 
+        a {
+            color: #444;
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: black;
+            text-decoration: underline;
+        }
+
+        .small {
+            font-family: Helvetica, Arial, sans-serif;
+            font-size: 12px;
+        }
+
+        */
+
+        .box-bottom {
+            padding: 0 15px;
+            box-shadow: -3px -3px 7px #CCC;
+            margin-top: 0px;
+        }
+
+        .gallery-nav {
+            padding: 10px 15px;
+            box-shadow: -3px -3px 7px #CCC;
+            margin-top: 10px;
+            font-weight: bold;
+            color: #f40d3a;
+            display: none
+        }
+
+        pre {
+            padding: 15px;
+            font-size: 12px;
+        }
+
+
+
